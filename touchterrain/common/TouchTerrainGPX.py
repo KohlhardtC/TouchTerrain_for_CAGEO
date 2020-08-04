@@ -1,3 +1,10 @@
+"""Module to add GPX paths to a TouchTerrain 3D model
+
+    This is accomplished by adjusting the height data that is used to generate the 3D model such that the GPX paths are shown with higher or lower elevations therby creating a visible path. 
+
+"""
+
+
 import time 
 import math
 
